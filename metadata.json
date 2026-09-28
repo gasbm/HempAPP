@@ -1,0 +1,22 @@
+{
+  "name": "HempC | Red Cooperativa Nucleus",
+  "short_name": "HempC Nucleus",
+  "description": "Plataforma de la Red Cooperativa del Cáñamo Industrial Argentino. Gestión integral de ensayos, trazabilidad y bioeconomía.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/628/628283.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#DDDB03",
+  "background_color": "#020617",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
